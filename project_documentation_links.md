@@ -5,6 +5,8 @@ Developed an assistive device integrating RFID-powered object identification wit
 
 [Video](https://www.youtube.com/watch?v=3os1IP039Us&t=3s)
 
+[Github](https://github.com/anqitao5809/sense-eng-project)
+
 # Digital Electronics: PLD(PLTW-S7), NI Multisim/Logisim, Python, C
 ### Custom Timed Number Display
 A PLD enabled system that uses hex displays to show customized number sequences based on logic gates design and input clock signal.
