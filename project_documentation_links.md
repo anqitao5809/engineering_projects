@@ -1,3 +1,10 @@
+# Capstone Project: Arduino, SolidWorks, Fusion 360, Python, C++, Soldering/breadboarding, Video Editing
+Developed an assistive device integrating RFID-powered object identification with audio feedback for visually impaired users.
+
+[Project Docs](https://drive.google.com/file/d/15jiYTT9SDUE7cZtSo0Rwhk0KrCgZ3JJI/view?usp=sharing)
+
+[Video](https://www.youtube.com/watch?v=3os1IP039Us&t=3s)
+
 # Digital Electronics: PLD(PLTW-S7), NI Multisim/Logisim, Python, C
 ### Custom Timed Number Display
 A PLD enabled system that uses hex displays to show customized number sequences based on logic gates design and input clock signal.
