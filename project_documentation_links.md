@@ -39,4 +39,27 @@ A PLD system that takes in four inputs(votes) and pushes forward the majority vo
 
 [Project Docs](https://drive.google.com/file/d/17gYi2d4qAjNbRl7oHPDhbFZV-3N5km-D/view?usp=sharing)
 
-[Video](https://drive.google.com/file/d/1vY_fJJqspA0peFNC3KIz4EW3AKhYXtKt/view?usp=sharing)  
+[Video](https://drive.google.com/file/d/1vY_fJJqspA0peFNC3KIz4EW3AKhYXtKt/view?usp=sharing)
+
+
+# Mechanical/Civil Engineering Projects
+### Pinball Machine
+Self-designed and built functional pinball machine with elevated 3DOF Motion Platform built in motors and controlled by potentiometers.
+
+[Project Docs](https://drive.google.com/file/d/1GrzpUBGUI3xdHJdKh1LqGGtG4EcGm_Q7/view?usp=sharing)
+
+### Hydrogen Fuel Cell Car
+A small car powered by hydrogen fuel cell/solar energy with customized wheels.
+
+[Project Docs](https://drive.google.com/file/d/1PKBc5-ixjw4sZn_i_Kk0dcUuh3IekqWJ/view?usp=sharing)
+
+### Truss Bridge
+Load-bearing truss bridge designed with stress/strain physics simulation and built with wooden sticks.
+
+[Project Docs](https://drive.google.com/file/d/1hJ0YmIEGB4tCcZRayXvWf3JgSxdrT0B4/view?usp=sharing)
+
+### Heat Insulation Material
+Designed brick with multiple low-cost materials that prevents heat escaping; tested with thermometers in LabVIEW.
+
+[Project Docs](https://drive.google.com/file/d/1lXUkp9zln6WxyyNU5J0x8BFvlm3CY3Ub/view?usp=sharing)
+
